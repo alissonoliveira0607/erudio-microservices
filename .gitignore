@@ -1,0 +1,15 @@
+*.pem
+*.ppk
+*.tmp
+*.jar
+*.war
+*.ear
+**/.project
+**/.classpath
+**/.settings
+target/
+/bin/
+blog/bin
+**/.tern-project
+**/*.iml
+**/.idea
